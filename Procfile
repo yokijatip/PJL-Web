@@ -1,0 +1,1 @@
+web: java -jar pjl-web-yokijatiperkasa.jar
